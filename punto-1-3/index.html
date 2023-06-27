@@ -5,22 +5,29 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>UD Atenea Cursos</title>
+  <link rel="stylesheet"href="https://indestructibletype.com/fonts/Jost.css"  type="text/css"  charset="utf-8"/>
+  <link rel="stylesheet" href="./styles/global-styles.css">
+  <link rel="stylesheet" href="./styles/header-styles.css">
+  <link rel="stylesheet" href="./styles/banner-styles.css">
+  <link rel="stylesheet" href="./styles/section-1-styles.css">
+  <link rel="stylesheet" href="./styles/section-2-styles.css">
+  <link rel="stylesheet" href="./styles/footer-styles.css"> 
 </head>
 
 <body>
   <header>
-    <div>
+    <div class="header__navigation">
       <img src="./public/images/header-logo.png" alt="main-logo">
       <nav>
         <ul>
           <li><a href="#banner">Cursos</a></li>
-          <li><a href="#section-1">Prticipantes</a></li>
+          <li><a href="#section-1">Participantes</a></li>
           <li><a href="#section-2">Certificados</a></li>
           <li><a href="#footer">Ayuda</a></li>
         </ul>
       </nav>
     </div>
-    <div>
+    <div class="header__settings">
       <div>
         <img src="./public/images/header-world.png" alt="world">
         <span>Español</span>
@@ -40,29 +47,29 @@
           </p>
         </div>
         <div>
-          <button>Saber Mas</button>
-          <button>Planes</button>
+          <button class="button--orange">Saber Mas</button>
+          <button class="button--white">Planes</button>
         </div>
       </div>
       <img src="./public/images/banner-online.png" alt="online-education" width="550px" height="350px">
     </section>
     <section id="section-1">
-      <div>
+      <div class="section-1__info">
         <h2>Por que elegirnos a nosotros</h2>
         <p>
           Somos una universidad en constante actualizacion y
           nos gusta el cambio,te enseñamos tecnologias contemporaneas
         </p>
       </div>
-      <div>
+      <div class="Section-1__Card">
         <img src="./public/images/section1-education.png" alt="education" width="120px" height="120px">
         <h3>Virtualidad y educacion</h3>
       </div>
-      <div>
+      <div class="Section-1__Card">
         <h3>Alcanze de objetivos</h3>
         <img src="./public/images/section1-goals.png" alt="goals" width="120px" height="120px">
       </div>
-      <div>
+      <div class="Section-1__Card">
         <img src="./public/images/section1-teach.png" alt="teach" width="120px" height="120px">
         <h3>Clases Inclusivas</h3>
       </div>
@@ -78,7 +85,7 @@
             aprovechamos cada una de estas para brindarte la mejor
             experiencia en linea
           </p>
-          <button>Saber mas</button>
+          <button class="button--orange">Saber mas</button>
         </div>
       </div>
       <div>
@@ -88,7 +95,7 @@
       Es importante para nosotros que las metas de cada uno de 
       nuestros estudiantes sea alcanzada a traves de nuestros cursos
       </p>
-      <button>Saber mas</button>
+      <button class="button--orange">Saber mas</button>
       </div>
       <img
       src="./public/images/section2-goals.png"

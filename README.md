@@ -19,6 +19,22 @@ alt="html">
 <img src="./public/images/css.png"
 alt="CSS">
 
+<h2>Punto 4: CSS</h2>
+<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-4/index.html"> 
+
+
+<h2>Punto 5: CSS</h2>
+<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-5/index.html"> 
+
+
+<h2>Punto 6:CSS</h2>
+<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-6/index.html">
+
+<h2>Punto 7-8:CSS</h2>
+<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-7-8/index.html">
+
+
+
 
 
 

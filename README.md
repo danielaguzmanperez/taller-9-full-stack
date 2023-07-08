@@ -20,20 +20,20 @@ alt="html">
 alt="CSS">
 
 <h2>Punto 4: CSS</h2>
-<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-4/index.html"> 
-
+<img src="./punto-4/public/images/punto4.png" 
+alt="CSS">
 
 <h2>Punto 5: CSS</h2>
-<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-5/index.html"> 
+<img src="./punto-5/public/images/punto5.png" 
+alt="CSS">
 
-
-<h2>Punto 6:CSS</h2>
-<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-6/index.html">
+<h2>Punto 6: CSS</h2>
+<img src="./punto-6/public/images/punto6.png" 
+alt="CSS">
 
 <h2>Punto 7-8:CSS</h2>
-<a href="https://danielaguzmanperez.github.io/taller-9-full-stack/punto-7-8/index.html">
-
-
+<img src="./punto-7-8/public/images/punto7-8.png" 
+alt="CSS">
 
 
 

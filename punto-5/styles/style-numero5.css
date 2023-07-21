@@ -1,24 +1,22 @@
-  color-black{
-    color: black;
+.text-green {
+  color: green;
 }
- 
-    text-colors {
-    color: green;
-    color: red;
-    color: blue;
-    color: red;
- }
- section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
 
-    width: 800px;
-    height: 500px;
-    padding: 20px;
+.text-red {
+  color: red;
 }
-   
+
+.text-black {
+  color: black;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-red {
+  color: red;
+}
 
 
 

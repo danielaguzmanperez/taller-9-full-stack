@@ -35,7 +35,9 @@ alt="CSS">
 <img src="./punto-7-8/public/images/punto7-8.png" 
 alt="CSS">
 
-
+<h2>Punto 9:CSS</h2>
+<img src="./punto-9/public/images/punto9.png"
+alt="CSS">
 
 
 

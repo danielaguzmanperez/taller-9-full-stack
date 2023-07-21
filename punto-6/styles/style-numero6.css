@@ -1,14 +1,11 @@
-h1{
+.negrilla-black {
     color: black;
-    font-style: normal;
 }
 
-h2{
-    color:yellow;
-    font-style: normal;
+.subrayado-amarillo{
+    color: yellow;
 }
 
-h3{
+.subrayado-morado {
     color: mediumpurple;
-    font-style: normal;
 }

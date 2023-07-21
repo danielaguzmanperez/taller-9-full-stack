@@ -1,26 +1,10 @@
-h2 {
+.text-azul {
     color: blue;
 }
 
-div h2 {
-    color: blue;
-}
-
-h3 {
+.text-rojo {
     color: red;
 }
 
-div h3 {
-    color: red;
-}
 
-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
 
-    width: 800px;
-    height: 500px;
-    padding: 20px;
-}

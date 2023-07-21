@@ -9,11 +9,25 @@ header {
     gap: 40px;
 
     width: 800px;
-    height: 500px;
+    height: 70px;
     padding: 10px;
     background-color: blueviolet;
 }
 
 header {
     cursor: pointer;
+}
+
+a{
+    color: #fff;
+}
+
+.text{
+    background: blue;
+    padding: 20px;
+}
+
+ul{
+    display:flex;
+    gap: 20px;
 }
